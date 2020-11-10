@@ -1,3 +1,5 @@
+#libsodium-dev
+#libcurl4-openssl-dev
 
 # Workdir
 ENV WORK_DIR /usr/src/app
