@@ -10,5 +10,5 @@ function(req, res) {
 
     output <- c(1:10)
 
-    return(jsonlite::toJSON(list(result = "asdf")))
+    return(jsonlite::toJSON(list(result = "Hello there")))
 }

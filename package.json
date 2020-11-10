@@ -1,0 +1,27 @@
+{
+  "name": "recommender",
+  "version": "0.0.1",
+  "description": "Product recommendation engine in r",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc",
+    "test": "tests"
+  },
+  "scripts": {
+    "dev": "nodemon ./server.R",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guya-LTD/recommender.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Guya-LTD/recommender/issues"
+  },
+  "homepage": "https://github.com/Guya-LTD/recommender#readme",
+  "dependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
