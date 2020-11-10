@@ -1,1 +1,2 @@
-library(readr, lib="package")
+install.packages("readr", lib="package")
+install.packages("plumber", lib="package")
