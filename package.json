@@ -1,6 +1,6 @@
 {
   "name": "recommender",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Product recommendation engine in r",
   "main": "index.js",
   "directories": {

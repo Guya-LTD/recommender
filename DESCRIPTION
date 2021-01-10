@@ -1,0 +1,15 @@
+# DESCRIPTION
+
+Package: recommender
+Type: Package
+Title: Recommendation engine
+Version: 0.1.0
+Author: Simon Belete
+Maintainer: Simon Belete <simonbelete@gmail.com>
+Description: Recommendation engine
+License:
+Encoding: UTF-8
+LazyData: true
+Imports:
+Suggests:
+RoxygenNote:
